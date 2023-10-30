@@ -11,3 +11,6 @@
   - 根据文章内容评论
 - 根据功能添加微服务、TDMQ
   
+## 视频记录
+- easycode插件
+  配置idea操作mysql，添加lombok生成模板。
