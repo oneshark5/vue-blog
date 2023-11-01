@@ -14,3 +14,4 @@
 ## 视频记录
 - easycode插件
   配置idea操作mysql，添加lombok生成模板。
+- 前台页面需求
