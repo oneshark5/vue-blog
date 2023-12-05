@@ -25,5 +25,6 @@
 `git add [dir]`也可以将指定目录添加到暂存区，包括子目录。
 2. `git commit -m "注释内容"`
 将暂存区内容添加到本地仓库中。
-3. `git push -u prigin master`
+3. `git push origin main`
 将本地的分支版本上传到远程并合并
+git push <远程主机名> <本地分支名>
