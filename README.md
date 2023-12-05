@@ -17,4 +17,13 @@
 - 前台页面需求
 
 ## git操作
-- `git pull`
+- `git pull` 相当于git fetch + git merge 
+- `git reset --hard HEAD`忽略本地修改，拉取新的
+**将代码push到git**
+1. `git add .`将所有的修改添加到暂存库
+`git add [file1] [file2]`多个文件采用空格隔开。
+`git add [dir]`也可以将指定目录添加到暂存区，包括子目录。
+2. `git commit -m "注释内容"`
+将暂存区内容添加到本地仓库中。
+3. `git push -u prigin master`
+将本地的分支版本上传到远程并合并
