@@ -28,3 +28,4 @@
 3. `git push origin main`
 将本地的分支版本上传到远程并合并
 git push <远程主机名> <本地分支名>
+4. git回退
